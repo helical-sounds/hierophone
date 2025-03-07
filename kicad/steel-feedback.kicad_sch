@@ -4637,6 +4637,12 @@
 		(uuid "c562e3b7-4c68-4692-a0fe-03cd26a97155")
 	)
 	(junction
+		(at 186.69 190.5)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c8e58e4c-9861-409a-b084-7a45faa18b45")
+	)
+	(junction
 		(at 99.06 119.38)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4683,12 +4689,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "dad758c7-f24c-4390-9ccf-957a4c0fc5f4")
-	)
-	(junction
-		(at 189.23 190.5)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "dbd6e10c-7409-44d6-92ec-65800f3c8a94")
 	)
 	(junction
 		(at 50.8 97.79)
@@ -5566,16 +5566,6 @@
 	)
 	(wire
 		(pts
-			(xy 189.23 186.69) (xy 189.23 190.5)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2cfa9885-1095-4d67-8068-c51bb05ea70a")
-	)
-	(wire
-		(pts
 			(xy 113.03 130.81) (xy 114.3 130.81)
 		)
 		(stroke
@@ -5776,7 +5766,7 @@
 	)
 	(wire
 		(pts
-			(xy 189.23 190.5) (xy 204.47 190.5)
+			(xy 173.99 190.5) (xy 186.69 190.5)
 		)
 		(stroke
 			(width 0)
@@ -5843,16 +5833,6 @@
 			(type default)
 		)
 		(uuid "3ecb4856-e19c-4579-9411-70e0e2266f59")
-	)
-	(wire
-		(pts
-			(xy 189.23 190.5) (xy 189.23 198.12)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "40a29850-95bc-494a-a052-b12df12e180f")
 	)
 	(wire
 		(pts
@@ -6516,6 +6496,16 @@
 	)
 	(wire
 		(pts
+			(xy 186.69 190.5) (xy 204.47 190.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6493c4bb-c8d7-4231-8fdf-5cfd84fc9371")
+	)
+	(wire
+		(pts
 			(xy 290.83 215.9) (xy 289.56 215.9)
 		)
 		(stroke
@@ -6576,7 +6566,7 @@
 	)
 	(wire
 		(pts
-			(xy 184.15 200.66) (xy 189.23 200.66)
+			(xy 175.26 193.04) (xy 173.99 193.04)
 		)
 		(stroke
 			(width 0)
@@ -6613,16 +6603,6 @@
 			(type default)
 		)
 		(uuid "6b1c26dd-2e24-43e1-a7ae-e65550a82439")
-	)
-	(wire
-		(pts
-			(xy 189.23 176.53) (xy 189.23 179.07)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6b3b6dca-3154-41a7-b031-2d7f7166ac4c")
 	)
 	(wire
 		(pts
@@ -7576,7 +7556,7 @@
 	)
 	(wire
 		(pts
-			(xy 189.23 200.66) (xy 189.23 207.01)
+			(xy 175.26 193.04) (xy 175.26 199.39)
 		)
 		(stroke
 			(width 0)
@@ -8156,16 +8136,6 @@
 	)
 	(wire
 		(pts
-			(xy 184.15 198.12) (xy 189.23 198.12)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c01447d4-656c-47f3-93a6-e9b089de398f")
-	)
-	(wire
-		(pts
 			(xy 154.94 93.98) (xy 146.05 93.98)
 		)
 		(stroke
@@ -8343,6 +8313,16 @@
 			(type default)
 		)
 		(uuid "c95c1137-332b-4339-96ec-7a8b973ad8eb")
+	)
+	(wire
+		(pts
+			(xy 186.69 200.66) (xy 186.69 201.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c9846500-83be-430d-96b0-d0c39997d2d9")
 	)
 	(wire
 		(pts
@@ -8743,6 +8723,16 @@
 			(type default)
 		)
 		(uuid "e5283d02-b308-420c-9e1b-b7ca1146062e")
+	)
+	(wire
+		(pts
+			(xy 186.69 190.5) (xy 186.69 193.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e52873f6-8831-483a-88c5-0102d55727ca")
 	)
 	(wire
 		(pts
@@ -9246,7 +9236,7 @@
 	)
 	(text "Piezo"
 		(exclude_from_sim no)
-		(at 173.736 199.898 0)
+		(at 163.576 192.278 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9717,6 +9707,73 @@
 			(project "steel-feedback"
 				(path "/5b0acaca-dc50-4fa5-b146-164c1b9ad031"
 					(reference "#PWR06")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 175.26 199.39 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "0b014cde-ec6e-4c37-9800-c0fc0ad5417e")
+		(property "Reference" "#PWR050"
+			(at 175.26 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 175.26 204.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 175.26 199.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 175.26 199.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 175.26 199.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "ba4ff13c-f127-4d5b-b68e-c06e78146829")
+		)
+		(instances
+			(project "steel-feedback"
+				(path "/5b0acaca-dc50-4fa5-b146-164c1b9ad031"
+					(reference "#PWR050")
 					(unit 1)
 				)
 			)
@@ -18289,73 +18346,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:VCC")
-		(at 189.23 176.53 0)
-		(mirror y)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "86d46178-6ab1-41da-b7c6-1a1b2992ace2")
-		(property "Reference" "#PWR049"
-			(at 189.23 180.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "VCC"
-			(at 189.23 171.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 189.23 176.53 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 189.23 176.53 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"VCC\""
-			(at 189.23 176.53 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "3935346f-a0f4-4495-b691-2e67448bbbae")
-		)
-		(instances
-			(project "steel-feedback"
-				(path "/5b0acaca-dc50-4fa5-b146-164c1b9ad031"
-					(reference "#PWR049")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 184.15 69.85 0)
 		(unit 1)
@@ -20899,7 +20889,7 @@
 				)
 			)
 		)
-		(property "Value" "68k"
+		(property "Value" "47k"
 			(at 147.32 45.72 90)
 			(effects
 				(font
@@ -21062,7 +21052,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "22k"
 			(at 342.9 138.4299 0)
 			(effects
 				(font
@@ -24684,7 +24674,7 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_01x02")
-		(at 179.07 200.66 180)
+		(at 168.91 193.04 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -24692,7 +24682,7 @@
 		(dnp no)
 		(uuid "cd4f0012-ff79-403b-aabb-981fae0d00f7")
 		(property "Reference" "J10"
-			(at 179.07 195.072 0)
+			(at 168.91 187.452 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24700,7 +24690,7 @@
 			)
 		)
 		(property "Value" "Conn_01x02"
-			(at 179.07 204.47 0)
+			(at 168.91 196.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24709,7 +24699,7 @@
 			)
 		)
 		(property "Footprint" "Rumblesan_Connectors:Molex_KK-254_22-05-7028_1x02_P2.54mm_Horizontal"
-			(at 179.07 200.66 0)
+			(at 168.91 193.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24718,7 +24708,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 179.07 200.66 0)
+			(at 168.91 193.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24727,7 +24717,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 179.07 200.66 0)
+			(at 168.91 193.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25652,17 +25642,18 @@
 		)
 	)
 	(symbol
-		(lib_id "power:VEE")
-		(at 189.23 207.01 180)
+		(lib_id "power:GND")
+		(at 186.69 201.93 0)
+		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "dde529df-8cdc-47d9-ae4b-5220d2c56c3a")
-		(property "Reference" "#PWR050"
-			(at 189.23 203.2 0)
+		(uuid "dfb90f5a-148e-498c-9986-9081ce6375a2")
+		(property "Reference" "#PWR049"
+			(at 186.69 208.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25670,8 +25661,8 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "VEE"
-			(at 189.23 212.09 0)
+		(property "Value" "GND"
+			(at 186.69 207.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25679,7 +25670,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 189.23 207.01 0)
+			(at 186.69 201.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25688,7 +25679,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 189.23 207.01 0)
+			(at 186.69 201.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25696,8 +25687,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Power symbol creates a global label with name \"VEE\""
-			(at 189.23 207.01 0)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 186.69 201.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25706,12 +25697,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "bbb178ee-c0b3-4270-ad0b-a1a4138cb6e1")
+			(uuid "e3188b5a-38bf-4190-9f0f-f7ce03d7377b")
 		)
 		(instances
 			(project "steel-feedback"
 				(path "/5b0acaca-dc50-4fa5-b146-164c1b9ad031"
-					(reference "#PWR050")
+					(reference "#PWR049")
 					(unit 1)
 				)
 			)
@@ -27023,7 +27014,7 @@
 	)
 	(symbol
 		(lib_id "Rumblesan_Standard_Parts:R")
-		(at 189.23 182.88 0)
+		(at 186.69 196.85 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -27032,7 +27023,7 @@
 		(dnp no)
 		(uuid "f97e52ad-a66b-4eab-b853-042b26f29b32")
 		(property "Reference" "R47"
-			(at 186.69 181.6099 0)
+			(at 184.15 195.5799 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27041,7 +27032,7 @@
 			)
 		)
 		(property "Value" "1m"
-			(at 186.69 184.1499 0)
+			(at 184.15 198.1199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27050,7 +27041,7 @@
 			)
 		)
 		(property "Footprint" "Rumblesan_Standard_Parts:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
-			(at 186.69 185.42 90)
+			(at 184.15 199.39 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27059,7 +27050,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 182.88 182.88 90)
+			(at 180.34 196.85 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27068,7 +27059,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 189.23 182.88 0)
+			(at 186.69 196.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27077,7 +27068,7 @@
 			)
 		)
 		(property "Tolerance" "1%"
-			(at 184.15 189.23 90)
+			(at 181.61 203.2 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27086,7 +27077,7 @@
 			)
 		)
 		(property "Power" "0.5W"
-			(at 184.15 175.26 90)
+			(at 181.61 189.23 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27095,7 +27086,7 @@
 			)
 		)
 		(property "Spec" "metal film"
-			(at 184.15 182.88 90)
+			(at 181.61 196.85 90)
 			(effects
 				(font
 					(size 1.27 1.27)
