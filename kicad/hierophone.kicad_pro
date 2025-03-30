@@ -454,7 +454,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "heirophone.kicad_pro",
+    "filename": "hierophone.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -517,7 +517,7 @@
   },
   "schematic": {
     "annotate_start_num": 0,
-    "bom_export_filename": "../build/heirophone-bom.csv",
+    "bom_export_filename": "../build/hierophone-bom.csv",
     "bom_fmt_presets": [],
     "bom_fmt_settings": {
       "field_delimiter": ",",

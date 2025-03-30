@@ -8,7 +8,7 @@
 	)
 	(paper "A4")
 	(title_block
-		(title "Heirophone")
+		(title "Hierophone")
 		(rev "r02")
 		(company "Helical Sounds")
 		(comment 2 "creativecommons.org/licenses/by/4.0")
@@ -328,7 +328,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/af9b690a-437f-4bd1-b597-4e7fae4a9fcb")
 		(sheetname "Root")
-		(sheetfile "heirophone.kicad_sch")
+		(sheetfile "hierophone.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 1.81 1.37)
@@ -640,7 +640,7 @@
 		(property ki_fp_filters "CP_*")
 		(path "/0f3f3be7-9f58-4593-bc2c-69ca9d37fbae")
 		(sheetname "Root")
-		(sheetfile "heirophone.kicad_sch")
+		(sheetfile "hierophone.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 1.04 -2.58)
@@ -2035,7 +2035,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/3a5bc6c0-6a32-4b1f-8b79-57b4d85da8aa")
 		(sheetname "Root")
-		(sheetfile "heirophone.kicad_sch")
+		(sheetfile "hierophone.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 1.04 0)
@@ -2323,7 +2323,7 @@
 		(property ki_fp_filters "Potentiometer*")
 		(path "/2b30acb6-8f02-47fd-8602-130e093b2caa")
 		(sheetname "Root")
-		(sheetfile "heirophone.kicad_sch")
+		(sheetfile "hierophone.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -4.88 6.62)
@@ -2764,7 +2764,7 @@
 		)
 		(path "/9fcbb25a-c7cf-4be7-ab5c-f78d55dce1d4")
 		(sheetname "Root")
-		(sheetfile "heirophone.kicad_sch")
+		(sheetfile "hierophone.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -6.477 -3.556)
@@ -3060,7 +3060,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/a2cf0549-5b48-4aeb-9c7f-3758cd38e45b")
 		(sheetname "Root")
-		(sheetfile "heirophone.kicad_sch")
+		(sheetfile "hierophone.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 8.35 -1.37)
@@ -3373,7 +3373,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/bf1771a9-f630-4677-96ee-c8e8e5d6bbe5")
 		(sheetname "Root")
-		(sheetfile "heirophone.kicad_sch")
+		(sheetfile "hierophone.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 1.04 0)
@@ -3905,7 +3905,7 @@
 		(property ki_fp_filters "Pin* Test*")
 		(path "/b8b9b9cc-689d-474d-b84d-4c194ccc3fc5")
 		(sheetname "Root")
-		(sheetfile "heirophone.kicad_sch")
+		(sheetfile "hierophone.kicad_sch")
 		(attr through_hole exclude_from_bom)
 		(fp_circle
 			(center 0 0)
@@ -4085,7 +4085,7 @@
 		(property ki_fp_filters "Jack*")
 		(path "/fc3c3d72-ecd2-427c-9a28-1917e4ebcb39")
 		(sheetname "Root")
-		(sheetfile "heirophone.kicad_sch")
+		(sheetfile "hierophone.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 4.5 4.5)
@@ -4524,7 +4524,7 @@
 		(property ki_fp_filters "SOIC*3.9x9.9mm*P1.27mm* DIP*W7.62mm*")
 		(path "/387d95a7-f2a1-4754-9185-12177e25feb8")
 		(sheetname "Root")
-		(sheetfile "heirophone.kicad_sch")
+		(sheetfile "hierophone.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -1.33 -1.39)
@@ -5055,7 +5055,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/28c6e79f-ad36-4a32-860f-894f35d6ab62")
 		(sheetname "Root")
-		(sheetfile "heirophone.kicad_sch")
+		(sheetfile "hierophone.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 1.04 0)
@@ -5343,7 +5343,7 @@
 		(property ki_fp_filters "Jack*")
 		(path "/d3c84a31-7870-4852-b45d-ba06c3f71acb")
 		(sheetname "Root")
-		(sheetfile "heirophone.kicad_sch")
+		(sheetfile "hierophone.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -4.5 -6)
@@ -5819,7 +5819,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/a347c612-b50a-4dbf-9db5-0c304a9db322")
 		(sheetname "Root")
-		(sheetfile "heirophone.kicad_sch")
+		(sheetfile "hierophone.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 1.81 1.37)
@@ -6132,7 +6132,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/589884dd-c03d-4a92-8a0a-3f708dad2ff2")
 		(sheetname "Root")
-		(sheetfile "heirophone.kicad_sch")
+		(sheetfile "hierophone.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 9.12 0)
@@ -6420,7 +6420,7 @@
 		(property ki_fp_filters "Potentiometer*")
 		(path "/f3ff84d0-e2f1-4255-b8ce-aa6444b8ea1f")
 		(sheetname "Root")
-		(sheetfile "heirophone.kicad_sch")
+		(sheetfile "hierophone.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -4.88 6.62)
@@ -6889,7 +6889,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/d188a9ab-f95e-48b4-9f3f-58c258f49d79")
 		(sheetname "Root")
-		(sheetfile "heirophone.kicad_sch")
+		(sheetfile "hierophone.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 8.35 -1.37)
@@ -7165,7 +7165,7 @@
 		(property ki_fp_filters "SOIC*3.9x4.9mm*P1.27mm* DIP*W7.62mm* TO*99* OnSemi*Micro8* TSSOP*3x3mm*P0.65mm* TSSOP*4.4x3mm*P0.65mm* MSOP*3x3mm*P0.65mm* SSOP*3.9x4.9mm*P0.635mm* LFCSP*2x2mm*P0.5mm* *SIP* SOIC*5.3x6.2mm*P1.27mm*")
 		(path "/bfd7a63c-90a3-46e2-bc9c-c9f7b3071cb3")
 		(sheetname "Root")
-		(sheetfile "heirophone.kicad_sch")
+		(sheetfile "hierophone.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 8.95 9.01)
@@ -7614,7 +7614,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/52eab78f-c6c9-4050-947a-e71783666b72")
 		(sheetname "Root")
-		(sheetfile "heirophone.kicad_sch")
+		(sheetfile "hierophone.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 1.04 0)
@@ -8093,7 +8093,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/eff6add9-ef1d-4d07-b083-812808a11918")
 		(sheetname "Root")
-		(sheetfile "heirophone.kicad_sch")
+		(sheetfile "hierophone.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 8.35 -1.37)
@@ -8405,7 +8405,7 @@
 		(property ki_fp_filters "CP_*")
 		(path "/b12f00d3-e032-43d4-ad2b-972f93631739")
 		(sheetname "Root")
-		(sheetfile "heirophone.kicad_sch")
+		(sheetfile "hierophone.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -1.804775 -1.475)
@@ -9761,7 +9761,7 @@
 		(property ki_fp_filters "Pin* Test*")
 		(path "/94d5353f-e7c6-44b5-8327-eee2a996af4d")
 		(sheetname "Root")
-		(sheetfile "heirophone.kicad_sch")
+		(sheetfile "hierophone.kicad_sch")
 		(attr through_hole exclude_from_bom)
 		(fp_circle
 			(center 0 0)
@@ -9929,7 +9929,7 @@
 		(property ki_fp_filters "TO?92*")
 		(path "/16b74baf-00b3-461e-ab9e-f55370fc3842")
 		(sheetname "Root")
-		(sheetfile "heirophone.kicad_sch")
+		(sheetfile "hierophone.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 0.74 1.85)
@@ -10220,7 +10220,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/5e4b42f1-cb67-4989-a5e5-1731b85249cf")
 		(sheetname "Root")
-		(sheetfile "heirophone.kicad_sch")
+		(sheetfile "hierophone.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 1.04 0)
@@ -10532,7 +10532,7 @@
 		(property ki_fp_filters "CP_*")
 		(path "/cea1c536-7b31-4662-bcde-9c82ee3fbec4")
 		(sheetname "Root")
-		(sheetfile "heirophone.kicad_sch")
+		(sheetfile "hierophone.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 3.601 -0.284)
@@ -11927,7 +11927,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/408cf75a-8a51-43b8-ae56-ba2d997df4b1")
 		(sheetname "Root")
-		(sheetfile "heirophone.kicad_sch")
+		(sheetfile "hierophone.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 8.35 -1.37)
@@ -12240,7 +12240,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/d512316e-5ec1-4766-8980-3916bff97e3e")
 		(sheetname "Root")
-		(sheetfile "heirophone.kicad_sch")
+		(sheetfile "hierophone.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 8.35 -1.37)
@@ -12811,7 +12811,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/8f1ef78c-b1b9-48a9-b4c8-0561784850b4")
 		(sheetname "Root")
-		(sheetfile "heirophone.kicad_sch")
+		(sheetfile "hierophone.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 1.04 0)
@@ -13124,7 +13124,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/6822467d-bc5e-49ec-8545-579e89d84a10")
 		(sheetname "Root")
-		(sheetfile "heirophone.kicad_sch")
+		(sheetfile "hierophone.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 1.81 1.37)
@@ -13437,7 +13437,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/a2901a1f-594b-49fc-a3c7-d560535df165")
 		(sheetname "Root")
-		(sheetfile "heirophone.kicad_sch")
+		(sheetfile "hierophone.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 1.81 1.37)
@@ -13750,7 +13750,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/4d7533f5-c3a3-4fe0-bb5a-86c0b238f26e")
 		(sheetname "Root")
-		(sheetfile "heirophone.kicad_sch")
+		(sheetfile "hierophone.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 8.35 -1.37)
@@ -14027,7 +14027,7 @@
 		(property ki_fp_filters "Jumper* TestPoint*2Pads* TestPoint*Bridge*")
 		(path "/41199a28-3de9-40a8-96e2-09c58c866dcf")
 		(sheetname "Root")
-		(sheetfile "heirophone.kicad_sch")
+		(sheetfile "hierophone.kicad_sch")
 		(attr through_hole exclude_from_bom)
 		(fp_line
 			(start -1.33 -1.33)
@@ -14575,7 +14575,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/076019eb-ac50-482b-860f-87b386760e7e")
 		(sheetname "Root")
-		(sheetfile "heirophone.kicad_sch")
+		(sheetfile "hierophone.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -1.12 1.37)
@@ -14812,7 +14812,7 @@
 		(property ki_fp_filters "MountingHole*Pad*")
 		(path "/e786f504-a005-48fb-a09a-2274197cddf5")
 		(sheetname "Root")
-		(sheetfile "heirophone.kicad_sch")
+		(sheetfile "hierophone.kicad_sch")
 		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
@@ -14941,7 +14941,7 @@
 		(property ki_fp_filters "Potentiometer*")
 		(path "/7a324227-9fe0-4605-a615-7e71f2ddc4aa")
 		(sheetname "Root")
-		(sheetfile "heirophone.kicad_sch")
+		(sheetfile "hierophone.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -4.88 6.62)
@@ -15889,7 +15889,7 @@
 		(property ki_fp_filters "SOIC*3.9x4.9mm*P1.27mm* DIP*W7.62mm* MSSOP*P0.65mm* TSSOP*3x3mm*P0.5mm*")
 		(path "/134496b5-77db-4f46-96c8-2eb384e319b0")
 		(sheetname "Root")
-		(sheetfile "heirophone.kicad_sch")
+		(sheetfile "hierophone.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 8.95 9.01)
@@ -16339,7 +16339,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/4c238b38-ca5d-4890-ab12-67e9c86c407b")
 		(sheetname "Root")
-		(sheetfile "heirophone.kicad_sch")
+		(sheetfile "hierophone.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 8.35 -1.37)
@@ -16652,7 +16652,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/526bb43a-e444-4107-a9db-cad2cb95ac33")
 		(sheetname "Root")
-		(sheetfile "heirophone.kicad_sch")
+		(sheetfile "hierophone.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 9.12 0)
@@ -16965,7 +16965,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/4dfe4ef1-9e9c-40c1-bc6d-d27c1e1a1289")
 		(sheetname "Root")
-		(sheetfile "heirophone.kicad_sch")
+		(sheetfile "hierophone.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 1.81 1.37)
@@ -17253,7 +17253,7 @@
 		(property ki_fp_filters "Potentiometer*")
 		(path "/a7c78544-89dc-450d-8993-2c80cd09adab")
 		(sheetname "Root")
-		(sheetfile "heirophone.kicad_sch")
+		(sheetfile "hierophone.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -4.88 6.62)
@@ -17943,7 +17943,7 @@
 		(property ki_fp_filters "SOIC*3.9x4.9mm*P1.27mm* DIP*W7.62mm* TO*99* OnSemi*Micro8* TSSOP*3x3mm*P0.65mm* TSSOP*4.4x3mm*P0.65mm* MSOP*3x3mm*P0.65mm* SSOP*3.9x4.9mm*P0.635mm* LFCSP*2x2mm*P0.5mm* *SIP* SOIC*5.3x6.2mm*P1.27mm*")
 		(path "/f29ec12d-463c-458f-b1b2-8e16f4768271")
 		(sheetname "Root")
-		(sheetfile "heirophone.kicad_sch")
+		(sheetfile "hierophone.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -1.33 -1.39)
@@ -18649,7 +18649,7 @@
 		(property ki_fp_filters "CP_*")
 		(path "/3a7bb319-fa58-491c-a2aa-0a95e0c015a9")
 		(sheetname "Root")
-		(sheetfile "heirophone.kicad_sch")
+		(sheetfile "hierophone.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 1.04 -2.58)
@@ -20301,7 +20301,7 @@
 		(property ki_fp_filters "CP_*")
 		(path "/bb04d8ee-426d-492e-99c0-17e8c25c6441")
 		(sheetname "Root")
-		(sheetfile "heirophone.kicad_sch")
+		(sheetfile "hierophone.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 3.601 -0.284)
@@ -21696,7 +21696,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/3f588665-7c9b-46e8-8c1e-ecc33f05cbe8")
 		(sheetname "Root")
-		(sheetfile "heirophone.kicad_sch")
+		(sheetfile "hierophone.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 1.04 0)
@@ -22266,7 +22266,7 @@
 		(property ki_fp_filters "D*DO?35*")
 		(path "/828bd97f-bd87-4eeb-9a70-3383c1ee566c")
 		(sheetname "Root")
-		(sheetfile "heirophone.kicad_sch")
+		(sheetfile "hierophone.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 1.69 1.12)
@@ -22640,7 +22640,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/72f35e61-1f99-41f6-acb9-5e66f2b365aa")
 		(sheetname "Root")
-		(sheetfile "heirophone.kicad_sch")
+		(sheetfile "hierophone.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 8.35 -1.37)
@@ -22953,7 +22953,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/4e02be79-1795-4e5c-b79e-e09a0638af04")
 		(sheetname "Root")
-		(sheetfile "heirophone.kicad_sch")
+		(sheetfile "hierophone.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 1.81 1.37)
@@ -24635,7 +24635,7 @@
 		(property ki_fp_filters "Jack*")
 		(path "/2e5a72b1-f6e6-4088-97d2-e248430ae184")
 		(sheetname "Root")
-		(sheetfile "heirophone.kicad_sch")
+		(sheetfile "hierophone.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -4.5 -6)
@@ -25073,7 +25073,7 @@
 		(property ki_fp_filters "Potentiometer*")
 		(path "/909426e2-cb18-43be-8ef4-45477a6c4220")
 		(sheetname "Root")
-		(sheetfile "heirophone.kicad_sch")
+		(sheetfile "hierophone.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -4.88 6.62)
@@ -25502,7 +25502,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/cd4f0012-ff79-403b-aabb-981fae0d00f7")
 		(sheetname "Root")
-		(sheetfile "heirophone.kicad_sch")
+		(sheetfile "hierophone.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -1.27 2.28)
@@ -26018,7 +26018,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/9fd4a659-6783-49f6-a978-36782843b7ed")
 		(sheetname "Root")
-		(sheetfile "heirophone.kicad_sch")
+		(sheetfile "hierophone.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 1.04 0)
@@ -26331,7 +26331,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/3394dc85-0bd4-4af3-a65d-a9f7f86068b2")
 		(sheetname "Root")
-		(sheetfile "heirophone.kicad_sch")
+		(sheetfile "hierophone.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 1.81 1.37)
@@ -26644,7 +26644,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/adec2b96-1c39-4da5-9e05-ae196583677c")
 		(sheetname "Root")
-		(sheetfile "heirophone.kicad_sch")
+		(sheetfile "hierophone.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 9.12 0)
@@ -26921,7 +26921,7 @@
 		(property ki_fp_filters "Jumper* TestPoint*3Pads* TestPoint*Bridge*")
 		(path "/a107ba4c-ec2b-4297-9e10-149a77c1b2c3")
 		(sheetname "Root")
-		(sheetfile "heirophone.kicad_sch")
+		(sheetfile "hierophone.kicad_sch")
 		(zone_connect 1)
 		(attr exclude_from_pos_files exclude_from_bom)
 		(net_tie_pad_groups "1,2")
@@ -27245,7 +27245,7 @@
 		(property ki_fp_filters "MountingHole*Pad*")
 		(path "/bc3891f3-858a-438e-818f-850b899cd062")
 		(sheetname "Root")
-		(sheetfile "heirophone.kicad_sch")
+		(sheetfile "hierophone.kicad_sch")
 		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
@@ -27399,7 +27399,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/a3e01b6d-686b-4e60-9236-ab13519f2e62")
 		(sheetname "Root")
-		(sheetfile "heirophone.kicad_sch")
+		(sheetfile "hierophone.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 8.35 -1.37)
@@ -27687,7 +27687,7 @@
 		(property ki_fp_filters "Potentiometer*")
 		(path "/cabc015b-de49-4f6d-a91f-ad5cb929272a")
 		(sheetname "Root")
-		(sheetfile "heirophone.kicad_sch")
+		(sheetfile "hierophone.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -4.88 6.62)
@@ -28156,7 +28156,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/32250a04-c9ae-4276-8202-023fc46f6f27")
 		(sheetname "Root")
-		(sheetfile "heirophone.kicad_sch")
+		(sheetfile "hierophone.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 1.04 0)
@@ -28444,7 +28444,7 @@
 		(property ki_fp_filters "Potentiometer*")
 		(path "/0d8ee784-3a7a-40de-8161-cce31f268599")
 		(sheetname "Root")
-		(sheetfile "heirophone.kicad_sch")
+		(sheetfile "hierophone.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -4.88 6.62)
@@ -29134,7 +29134,7 @@
 		(property ki_fp_filters "SOIC*3.9x4.9mm*P1.27mm* DIP*W7.62mm* TO*99* OnSemi*Micro8* TSSOP*3x3mm*P0.65mm* TSSOP*4.4x3mm*P0.65mm* MSOP*3x3mm*P0.65mm* SSOP*3.9x4.9mm*P0.635mm* LFCSP*2x2mm*P0.5mm* *SIP* SOIC*5.3x6.2mm*P1.27mm*")
 		(path "/74e08234-b209-4d9f-b7d8-a52fd332132b")
 		(sheetname "Root")
-		(sheetfile "heirophone.kicad_sch")
+		(sheetfile "hierophone.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 8.95 -1.39)
@@ -29583,7 +29583,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/aecb97e8-2849-42f9-8056-36fad917b9d9")
 		(sheetname "Root")
-		(sheetfile "heirophone.kicad_sch")
+		(sheetfile "hierophone.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 1.04 0)
@@ -29871,7 +29871,7 @@
 		(property ki_fp_filters "Potentiometer*")
 		(path "/ed20d32a-5b67-42a2-8e12-07d309e7a8f1")
 		(sheetname "Root")
-		(sheetfile "heirophone.kicad_sch")
+		(sheetfile "hierophone.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -4.88 6.62)
@@ -30329,7 +30329,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/80dd41df-cca6-49d1-b725-4600b4460139")
 		(sheetname "Root")
-		(sheetfile "heirophone.kicad_sch")
+		(sheetfile "hierophone.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -1.12 2.37)
@@ -30562,7 +30562,7 @@
 		(property ki_fp_filters "Pin* Test*")
 		(path "/b0ebeee0-f109-4d70-a01c-d1f516744c80")
 		(sheetname "Root")
-		(sheetfile "heirophone.kicad_sch")
+		(sheetfile "hierophone.kicad_sch")
 		(attr through_hole exclude_from_bom)
 		(fp_circle
 			(center 0 0)
@@ -30767,7 +30767,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/5a00b9ef-1609-4443-9ead-85683dd60178")
 		(sheetname "Root")
-		(sheetfile "heirophone.kicad_sch")
+		(sheetfile "hierophone.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 9.12 0)
@@ -31069,7 +31069,7 @@
 		(property ki_fp_filters "D*DO?35*")
 		(path "/20768795-0399-4783-8f45-85680e6ee471")
 		(sheetname "Root")
-		(sheetfile "heirophone.kicad_sch")
+		(sheetfile "hierophone.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 1.04 0)
@@ -31701,7 +31701,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/48fe6ea1-fb61-41f6-86e6-fdd0287fe202")
 		(sheetname "Root")
-		(sheetfile "heirophone.kicad_sch")
+		(sheetfile "hierophone.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 1.04 0)
@@ -32014,7 +32014,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/c58020b4-0138-4911-a3ad-62242e4188a2")
 		(sheetname "Root")
-		(sheetfile "heirophone.kicad_sch")
+		(sheetfile "hierophone.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 1.04 0)
@@ -32287,7 +32287,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/51dc9648-8bd6-42ab-992d-ef2db2986e39")
 		(sheetname "Root")
-		(sheetfile "heirophone.kicad_sch")
+		(sheetfile "hierophone.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -1.27 2.28)
@@ -33061,7 +33061,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/ffb62279-e966-4c80-b758-dd054b3dd3de")
 		(sheetname "Root")
-		(sheetfile "heirophone.kicad_sch")
+		(sheetfile "hierophone.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 9.12 0)
@@ -33374,7 +33374,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/46e1a3bf-a0ca-4766-b752-7e0b2d969e45")
 		(sheetname "Root")
-		(sheetfile "heirophone.kicad_sch")
+		(sheetfile "hierophone.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 1.04 0)
@@ -33687,7 +33687,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/7fc87fa1-6cec-4964-89da-aa9657aad025")
 		(sheetname "Root")
-		(sheetfile "heirophone.kicad_sch")
+		(sheetfile "hierophone.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 1.04 0)
@@ -33999,7 +33999,7 @@
 		(property ki_fp_filters "CP_*")
 		(path "/7ad8bf17-e49b-46de-bd82-d9c099824be9")
 		(sheetname "Root")
-		(sheetfile "heirophone.kicad_sch")
+		(sheetfile "hierophone.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 1 1.04)
@@ -35394,7 +35394,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/a43ab5d2-2a95-4e1b-9f70-adbcb278990f")
 		(sheetname "Root")
-		(sheetfile "heirophone.kicad_sch")
+		(sheetfile "hierophone.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 1.81 1.37)
@@ -35670,7 +35670,7 @@
 		(property ki_fp_filters "SOIC*3.9x4.9mm*P1.27mm* DIP*W7.62mm* TO*99* OnSemi*Micro8* TSSOP*3x3mm*P0.65mm* TSSOP*4.4x3mm*P0.65mm* MSOP*3x3mm*P0.65mm* SSOP*3.9x4.9mm*P0.635mm* LFCSP*2x2mm*P0.5mm* *SIP* SOIC*5.3x6.2mm*P1.27mm*")
 		(path "/660a6722-4034-47ae-95e8-1fe956047765")
 		(sheetname "Root")
-		(sheetfile "heirophone.kicad_sch")
+		(sheetfile "hierophone.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -1.33 -1.39)
@@ -36082,7 +36082,7 @@
 		(property ki_fp_filters "SOIC*3.9x4.9mm*P1.27mm* DIP*W7.62mm* TO*99* OnSemi*Micro8* TSSOP*3x3mm*P0.65mm* TSSOP*4.4x3mm*P0.65mm* MSOP*3x3mm*P0.65mm* SSOP*3.9x4.9mm*P0.635mm* LFCSP*2x2mm*P0.5mm* *SIP* SOIC*5.3x6.2mm*P1.27mm*")
 		(path "/7f8c3092-8b1e-4b67-958c-6de31e571e27")
 		(sheetname "Root")
-		(sheetfile "heirophone.kicad_sch")
+		(sheetfile "hierophone.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 8.95 -1.39)
@@ -36493,7 +36493,7 @@
 		(property ki_fp_filters "Potentiometer*")
 		(path "/39e03cac-e4a9-4785-9f7b-5098dac17197")
 		(sheetname "Root")
-		(sheetfile "heirophone.kicad_sch")
+		(sheetfile "hierophone.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -4.88 6.62)
@@ -36962,7 +36962,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/743a741e-8728-417f-b729-eff450da2bba")
 		(sheetname "Root")
-		(sheetfile "heirophone.kicad_sch")
+		(sheetfile "hierophone.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 1.81 1.37)
@@ -37238,7 +37238,7 @@
 		(property ki_fp_filters "TO?92*")
 		(path "/24b1127e-a71e-4958-92d7-78878e18a8fc")
 		(sheetname "Root")
-		(sheetfile "heirophone.kicad_sch")
+		(sheetfile "hierophone.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 0.74 1.85)
@@ -37529,7 +37529,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/0d3a04f0-dec1-482c-b873-8e2e9688ef0d")
 		(sheetname "Root")
-		(sheetfile "heirophone.kicad_sch")
+		(sheetfile "hierophone.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 8.35 -1.37)
@@ -37842,7 +37842,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/25a1d06d-2c22-4ff0-8c4e-d9b7439a3bab")
 		(sheetname "Root")
-		(sheetfile "heirophone.kicad_sch")
+		(sheetfile "hierophone.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 1.04 0)
@@ -38735,7 +38735,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/c7105643-5235-4344-beb4-b706c8d0e947")
 		(sheetname "Root")
-		(sheetfile "heirophone.kicad_sch")
+		(sheetfile "hierophone.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 1.04 0)
@@ -39010,7 +39010,7 @@
 		(property ki_fp_filters "Potentiometer*")
 		(path "/5c56ce14-b25f-44e4-86cc-85f6a416a702")
 		(sheetname "Root")
-		(sheetfile "heirophone.kicad_sch")
+		(sheetfile "hierophone.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -4.88 6.62)
@@ -39479,7 +39479,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/f97e52ad-a66b-4eab-b853-042b26f29b32")
 		(sheetname "Root")
-		(sheetfile "heirophone.kicad_sch")
+		(sheetfile "hierophone.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 1.04 0)
@@ -39755,7 +39755,7 @@
 		(property ki_fp_filters "DIP*W7.62mm* SOIC*3.9x4.9mm*P1.27mm* TO?5*")
 		(path "/bdd501ee-7389-4120-bc85-75cbf2229722")
 		(sheetname "Root")
-		(sheetfile "heirophone.kicad_sch")
+		(sheetfile "hierophone.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 8.95 9.01)
@@ -40180,7 +40180,7 @@
 		(property ki_fp_filters "Jack*")
 		(path "/68dd0e95-cb26-472e-aaa4-a32e122814cc")
 		(sheetname "Root")
-		(sheetfile "heirophone.kicad_sch")
+		(sheetfile "hierophone.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -4.5 -6)
@@ -40641,7 +40641,7 @@
 		(property ki_fp_filters "Potentiometer*")
 		(path "/cac5d102-6ca1-402e-b672-b7c0fb8b14f2")
 		(sheetname "Root")
-		(sheetfile "heirophone.kicad_sch")
+		(sheetfile "hierophone.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -3.75 -1.25)
@@ -41244,7 +41244,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/9baa2071-9b71-4553-9502-257f2165d829")
 		(sheetname "Root")
-		(sheetfile "heirophone.kicad_sch")
+		(sheetfile "hierophone.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 9.12 0)
@@ -42038,7 +42038,7 @@
 		(property ki_fp_filters "MountingHole*Pad*")
 		(path "/9effb5d8-4803-47fa-a661-7fce7b44469a")
 		(sheetname "Root")
-		(sheetfile "heirophone.kicad_sch")
+		(sheetfile "hierophone.kicad_sch")
 		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
@@ -42176,7 +42176,7 @@
 		(property ki_fp_filters "Potentiometer*")
 		(path "/207353ba-2076-4d3f-b2f0-e9a45c76c3fb")
 		(sheetname "Root")
-		(sheetfile "heirophone.kicad_sch")
+		(sheetfile "hierophone.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -2.75 5.75)
@@ -42482,7 +42482,7 @@
 		(property ki_fp_filters "Pin* Test*")
 		(path "/3ed372f7-8189-454f-9f56-5603b6aa0dea")
 		(sheetname "Root")
-		(sheetfile "heirophone.kicad_sch")
+		(sheetfile "hierophone.kicad_sch")
 		(attr through_hole exclude_from_bom)
 		(fp_circle
 			(center 0 0)
@@ -42687,7 +42687,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/9cbdd304-4275-4856-96e3-e9629b2ac7f6")
 		(sheetname "Root")
-		(sheetfile "heirophone.kicad_sch")
+		(sheetfile "hierophone.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 1.81 1.37)
@@ -42961,7 +42961,7 @@
 		(property ki_fp_filters "Pin* Test*")
 		(path "/8ee37a16-45d2-4ee3-be75-32165b54d25b")
 		(sheetname "Root")
-		(sheetfile "heirophone.kicad_sch")
+		(sheetfile "hierophone.kicad_sch")
 		(attr through_hole exclude_from_bom)
 		(fp_circle
 			(center 0 0)
@@ -43131,7 +43131,7 @@
 		(property ki_fp_filters "MountingHole*Pad*")
 		(path "/89a28ed3-bd9e-4532-98f8-266fc6d6617a")
 		(sheetname "Root")
-		(sheetfile "heirophone.kicad_sch")
+		(sheetfile "hierophone.kicad_sch")
 		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
@@ -43529,7 +43529,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/55e090a6-5168-4766-9281-f372d102b7ea")
 		(sheetname "Root")
-		(sheetfile "heirophone.kicad_sch")
+		(sheetfile "hierophone.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 6.12 -1.37)
@@ -43801,7 +43801,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/cae67dcc-1557-4add-ab05-c5748da70471")
 		(sheetname "Root")
-		(sheetfile "heirophone.kicad_sch")
+		(sheetfile "hierophone.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 1.04 0)
@@ -44113,7 +44113,7 @@
 		(property ki_fp_filters "CP_*")
 		(path "/8c7fd9a8-9556-49fe-a2e2-e1a08093d594")
 		(sheetname "Root")
-		(sheetfile "heirophone.kicad_sch")
+		(sheetfile "hierophone.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -1.804775 -1.475)
@@ -45469,7 +45469,7 @@
 		(property ki_fp_filters "Pin* Test*")
 		(path "/6996fc0b-5278-4707-9319-e82bbc908355")
 		(sheetname "Root")
-		(sheetfile "heirophone.kicad_sch")
+		(sheetfile "hierophone.kicad_sch")
 		(attr through_hole exclude_from_bom)
 		(fp_circle
 			(center 0 0)
@@ -45893,7 +45893,7 @@
 		(property ki_fp_filters "Pin* Test*")
 		(path "/e52f95d1-bfc5-4e24-9c5a-e1b72145fbdc")
 		(sheetname "Root")
-		(sheetfile "heirophone.kicad_sch")
+		(sheetfile "hierophone.kicad_sch")
 		(attr through_hole exclude_from_bom)
 		(fp_circle
 			(center 0 0)
@@ -46061,7 +46061,7 @@
 		(property ki_fp_filters "SOIC*3.9x9.9mm*P1.27mm* DIP*W7.62mm*")
 		(path "/dd64b418-9d3b-46cb-9df8-d6ee8f1bedb5")
 		(sheetname "Root")
-		(sheetfile "heirophone.kicad_sch")
+		(sheetfile "hierophone.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -1.33 -1.39)
@@ -46758,7 +46758,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/1db1cf23-bd25-4631-a007-ad494b956bbf")
 		(sheetname "Root")
-		(sheetfile "heirophone.kicad_sch")
+		(sheetfile "hierophone.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 8.35 -1.37)
@@ -48817,7 +48817,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/d85d5012-4fab-46af-8c90-1ee72ab0b504")
 		(sheetname "Root")
-		(sheetfile "heirophone.kicad_sch")
+		(sheetfile "hierophone.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -1.12 2.37)
@@ -49075,7 +49075,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/9f98a04f-28ef-4b49-a118-0a7627a2d828")
 		(sheetname "Root")
-		(sheetfile "heirophone.kicad_sch")
+		(sheetfile "hierophone.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 6.12 -1.37)
@@ -49347,7 +49347,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/50357c40-a666-4008-8016-6b47122d6e69")
 		(sheetname "Root")
-		(sheetfile "heirophone.kicad_sch")
+		(sheetfile "hierophone.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 1.04 0)
@@ -51726,7 +51726,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/fe0b0199-a630-4dca-b7b4-adedee4b0eb0")
 		(sheetname "Root")
-		(sheetfile "heirophone.kicad_sch")
+		(sheetfile "hierophone.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 1.04 0)
@@ -52014,7 +52014,7 @@
 		(property ki_fp_filters "Jack*")
 		(path "/94e9192c-7bce-4110-a3a5-9ddb6097c27a")
 		(sheetname "Root")
-		(sheetfile "heirophone.kicad_sch")
+		(sheetfile "hierophone.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 4.5 4.5)
@@ -52465,7 +52465,7 @@
 		(property ki_fp_filters "Jack*")
 		(path "/29b6638e-7f96-4ca7-9864-05c13b2dfe45")
 		(sheetname "Root")
-		(sheetfile "heirophone.kicad_sch")
+		(sheetfile "hierophone.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -4.5 -6)
@@ -52942,7 +52942,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/bf0e75be-6d75-4a96-b332-8cf76be39828")
 		(sheetname "Root")
-		(sheetfile "heirophone.kicad_sch")
+		(sheetfile "hierophone.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 8.35 -1.37)
@@ -53255,7 +53255,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/a1ed2f9d-115e-4284-84e7-ca77651f3c77")
 		(sheetname "Root")
-		(sheetfile "heirophone.kicad_sch")
+		(sheetfile "hierophone.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 9.12 0)
@@ -54070,7 +54070,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/95f02b8e-5e47-49da-977f-6225b1455e2b")
 		(sheetname "Root")
-		(sheetfile "heirophone.kicad_sch")
+		(sheetfile "hierophone.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -1.12 1.37)
@@ -54563,7 +54563,7 @@
 		(property ki_fp_filters "TO?92*")
 		(path "/fdc35b45-25b5-483f-87d2-3514db3eca17")
 		(sheetname "Root")
-		(sheetfile "heirophone.kicad_sch")
+		(sheetfile "hierophone.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 0.74 1.85)
@@ -54854,7 +54854,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/198db1df-33b3-4715-b598-b9398f0aea08")
 		(sheetname "Root")
-		(sheetfile "heirophone.kicad_sch")
+		(sheetfile "hierophone.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 9.12 0)
@@ -55166,7 +55166,7 @@
 		(property ki_fp_filters "CP_*")
 		(path "/d553e889-c36d-44df-a72e-dc079b96ae0d")
 		(sheetname "Root")
-		(sheetfile "heirophone.kicad_sch")
+		(sheetfile "hierophone.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -1.804775 -1.475)
@@ -56547,7 +56547,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/9b3cbca7-1fce-49c9-9a21-976979e8fa34")
 		(sheetname "Root")
-		(sheetfile "heirophone.kicad_sch")
+		(sheetfile "hierophone.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -1.12 1.37)
@@ -56794,7 +56794,7 @@
 		(property ki_fp_filters "Potentiometer*")
 		(path "/1ccce0d1-19b1-4909-b266-fd1a2ebc4b71")
 		(sheetname "Root")
-		(sheetfile "heirophone.kicad_sch")
+		(sheetfile "hierophone.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -4.88 6.62)
@@ -57263,7 +57263,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/b97bda14-5bb2-453f-975d-9db3e51f3ab3")
 		(sheetname "Root")
-		(sheetfile "heirophone.kicad_sch")
+		(sheetfile "hierophone.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 1.81 1.37)
@@ -57539,7 +57539,7 @@
 		(property ki_fp_filters "SOIC*3.9x4.9mm*P1.27mm* DIP*W7.62mm* TO*99* OnSemi*Micro8* TSSOP*3x3mm*P0.65mm* TSSOP*4.4x3mm*P0.65mm* MSOP*3x3mm*P0.65mm* SSOP*3.9x4.9mm*P0.635mm* LFCSP*2x2mm*P0.5mm* *SIP* SOIC*5.3x6.2mm*P1.27mm*")
 		(path "/9b805f77-9c99-4508-ae77-1d0d7d773a2d")
 		(sheetname "Root")
-		(sheetfile "heirophone.kicad_sch")
+		(sheetfile "hierophone.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -1.33 9.01)
@@ -58143,7 +58143,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/c2e0933a-5eda-4007-82b0-b64fca2cdfef")
 		(sheetname "Root")
-		(sheetfile "heirophone.kicad_sch")
+		(sheetfile "hierophone.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -1.12 2.37)
@@ -58378,7 +58378,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/844c4caa-a8e1-4dcb-84e6-dfc1da2d7bc6")
 		(sheetname "Root")
-		(sheetfile "heirophone.kicad_sch")
+		(sheetfile "hierophone.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 7.8 -1.47)
@@ -58774,7 +58774,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/48a23b6e-1e92-480f-802c-d804c060891d")
 		(sheetname "Root")
-		(sheetfile "heirophone.kicad_sch")
+		(sheetfile "hierophone.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 1.81 1.37)
@@ -59345,7 +59345,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/362614a6-d311-4b6a-94df-0fbdd5fdc5f7")
 		(sheetname "Root")
-		(sheetfile "heirophone.kicad_sch")
+		(sheetfile "hierophone.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 9.12 0)
@@ -59658,7 +59658,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/225f8f8a-a661-4e30-a970-4aa389c412a9")
 		(sheetname "Root")
-		(sheetfile "heirophone.kicad_sch")
+		(sheetfile "hierophone.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 1.04 0)
@@ -59971,7 +59971,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/1c465924-75ac-4fd8-a389-4f6bf5dc4e97")
 		(sheetname "Root")
-		(sheetfile "heirophone.kicad_sch")
+		(sheetfile "hierophone.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 8.35 -1.37)
@@ -60505,7 +60505,7 @@
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
 		(path "/ff7f097e-3761-4be1-a140-b304d5040dca")
 		(sheetname "Root")
-		(sheetfile "heirophone.kicad_sch")
+		(sheetfile "hierophone.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 8.82 0)
@@ -60876,7 +60876,7 @@
 		(property ki_fp_filters "Potentiometer*")
 		(path "/433e676a-df9c-4460-bfb6-215efcd2c02e")
 		(sheetname "Root")
-		(sheetfile "heirophone.kicad_sch")
+		(sheetfile "hierophone.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -4.88 6.62)
@@ -61308,7 +61308,7 @@
 		(property ki_fp_filters "SOIC*3.9x4.9mm*P1.27mm* DIP*W7.62mm* TO*99* OnSemi*Micro8* TSSOP*3x3mm*P0.65mm* TSSOP*4.4x3mm*P0.65mm* MSOP*3x3mm*P0.65mm* SSOP*3.9x4.9mm*P0.635mm* LFCSP*2x2mm*P0.5mm* *SIP* SOIC*5.3x6.2mm*P1.27mm*")
 		(path "/f0cc950e-11db-487c-a734-27665b95b170")
 		(sheetname "Root")
-		(sheetfile "heirophone.kicad_sch")
+		(sheetfile "hierophone.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -1.33 -1.39)
@@ -61757,7 +61757,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/e255f95e-837e-4dbe-bf49-1fce1963f634")
 		(sheetname "Root")
-		(sheetfile "heirophone.kicad_sch")
+		(sheetfile "hierophone.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 9.12 0)
@@ -62765,7 +62765,7 @@
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/85a4b6f3-ea64-4966-9bf2-81024c5e1786")
 		(sheetname "Root")
-		(sheetfile "heirophone.kicad_sch")
+		(sheetfile "hierophone.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -1.29 -1.545)
@@ -63126,7 +63126,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/399fd3ca-a87a-444b-af33-fd141afef0f8")
 		(sheetname "Root")
-		(sheetfile "heirophone.kicad_sch")
+		(sheetfile "hierophone.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 6.12 -1.37)
@@ -63387,7 +63387,7 @@
 		(property ki_fp_filters "D*DO?35*")
 		(path "/c987fae2-ac0a-4511-bc90-59b90e43933a")
 		(sheetname "Root")
-		(sheetfile "heirophone.kicad_sch")
+		(sheetfile "hierophone.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 1.04 0)
@@ -63761,7 +63761,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/9243f9d3-c223-4d90-ac3c-6961928bfab3")
 		(sheetname "Root")
-		(sheetfile "heirophone.kicad_sch")
+		(sheetfile "hierophone.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 8.35 -1.37)
@@ -64058,7 +64058,7 @@
 		(property ki_fp_filters "Potentiometer*")
 		(path "/bd9341bc-46ef-4660-804b-d7e8ebe5f3bb")
 		(sheetname "Root")
-		(sheetfile "heirophone.kicad_sch")
+		(sheetfile "hierophone.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -3.75 -1.25)
