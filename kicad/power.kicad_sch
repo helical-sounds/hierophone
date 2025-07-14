@@ -463,6 +463,156 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "Device:D_Zener"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 1.016)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "D"
+				(at 0 2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "D_Zener"
+				(at 0 -2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Zener diode"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "diode"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "TO-???* *_Diode_* *SingleDiode* D_*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "D_Zener_0_1"
+				(polyline
+					(pts
+						(xy -1.27 -1.27) (xy -1.27 1.27) (xy -0.762 1.27)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 0) (xy -1.27 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 -1.27) (xy 1.27 1.27) (xy -1.27 0) (xy 1.27 -1.27)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "D_Zener_1_1"
+				(pin passive line
+					(at -3.81 0 0)
+					(length 2.54)
+					(name "K"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 3.81 0 180)
+					(length 2.54)
+					(name "A"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "Device:NetTie_2"
 			(pin_numbers
 				(hide yes)
@@ -1326,6 +1476,157 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "Rumblesan_Standard_Parts:R"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 0)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "R?"
+				(at -4.318 0 90)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "R"
+				(at -2.286 0 90)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "Rumblesan_Standard_Parts:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
+				(at 2.54 -2.54 90)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 6.35 0 90)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Resistor"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Tolerance" "1%"
+				(at 5.08 -6.35 90)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Power" "0.5W"
+				(at 5.08 7.62 90)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Spec" "metal film"
+				(at 5.08 0 90)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "R res resistor"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "R_*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "R_0_1"
+				(rectangle
+					(start -1.016 2.54)
+					(end 1.016 -2.54)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "R_1_1"
+				(pin passive line
+					(at 0 3.81 270)
+					(length 1.27)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -3.81 90)
+					(length 1.27)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "Switch:SW_SPDT"
 			(pin_names
 				(offset 0)
@@ -2114,6 +2415,12 @@
 		(uuid "311e11a8-ad63-4b14-8e63-f52774b1f304")
 	)
 	(junction
+		(at 195.58 45.72)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "344b1263-e728-43a0-9a13-f1aa9f34f2af")
+	)
+	(junction
 		(at 148.59 129.54)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2124,6 +2431,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "3b47ab5a-80b5-4bc4-b3bb-5b2273cf006d")
+	)
+	(junction
+		(at 241.3 45.72)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5abefec0-e296-479d-a31d-c30d67ece148")
 	)
 	(junction
 		(at 72.39 119.38)
@@ -2166,6 +2479,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "7e6f01c4-b0e5-40cd-873e-94c76cdda058")
+	)
+	(junction
+		(at 179.07 45.72)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "84a73264-bb35-46d7-9670-0e7e8738ac5f")
 	)
 	(junction
 		(at 85.09 129.54)
@@ -2232,6 +2551,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "bbdbdd1c-ebee-40c3-a530-1f76dafa7ef4")
+	)
+	(junction
+		(at 224.79 45.72)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c11edd69-b2bc-4e03-a5aa-adef3497d43d")
 	)
 	(junction
 		(at 46.99 129.54)
@@ -2445,6 +2770,16 @@
 	)
 	(wire
 		(pts
+			(xy 224.79 33.02) (xy 224.79 35.56)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "19f5b7b5-d4e3-47e5-8e86-4bd185e48097")
+	)
+	(wire
+		(pts
 			(xy 73.66 45.72) (xy 77.47 45.72)
 		)
 		(stroke
@@ -2472,6 +2807,16 @@
 			(type default)
 		)
 		(uuid "2135fca9-9d8e-4591-be45-d7b0489ca552")
+	)
+	(wire
+		(pts
+			(xy 195.58 45.72) (xy 179.07 45.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "257d8c2d-49fc-451b-81f9-b305b637798c")
 	)
 	(wire
 		(pts
@@ -2642,6 +2987,16 @@
 			(type default)
 		)
 		(uuid "3f9bd69c-7252-4174-8765-7e412b5d02cb")
+	)
+	(wire
+		(pts
+			(xy 241.3 45.72) (xy 224.79 45.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "426d2d22-3df3-4c68-a8f7-c44e0d87f660")
 	)
 	(wire
 		(pts
@@ -2865,6 +3220,16 @@
 	)
 	(wire
 		(pts
+			(xy 241.3 58.42) (xy 241.3 55.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7488cf2d-5125-44ac-bf3f-750a78b12275")
+	)
+	(wire
+		(pts
 			(xy 135.89 139.7) (xy 135.89 138.43)
 		)
 		(stroke
@@ -2905,6 +3270,16 @@
 	)
 	(wire
 		(pts
+			(xy 199.39 45.72) (xy 195.58 45.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7d52b571-7bbf-44bb-9617-7ac9c7b1eedd")
+	)
+	(wire
+		(pts
 			(xy 102.87 81.28) (xy 102.87 87.63)
 		)
 		(stroke
@@ -2922,6 +3297,16 @@
 			(type default)
 		)
 		(uuid "8417c2d9-5bc2-416e-a57c-762ac0605325")
+	)
+	(wire
+		(pts
+			(xy 195.58 45.72) (xy 195.58 48.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8463760d-e99d-447b-9139-f74343ea193e")
 	)
 	(wire
 		(pts
@@ -2965,6 +3350,16 @@
 	)
 	(wire
 		(pts
+			(xy 179.07 45.72) (xy 179.07 48.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8c7a8956-542f-40ab-8afd-747646cf39db")
+	)
+	(wire
+		(pts
 			(xy 148.59 50.8) (xy 148.59 53.34)
 		)
 		(stroke
@@ -2972,6 +3367,16 @@
 			(type default)
 		)
 		(uuid "8cde67de-4a4a-41e7-a6eb-bb8bae713945")
+	)
+	(wire
+		(pts
+			(xy 224.79 43.18) (xy 224.79 45.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8fa159e2-980b-4643-94ad-59da9b7bb1e8")
 	)
 	(wire
 		(pts
@@ -3065,6 +3470,16 @@
 	)
 	(wire
 		(pts
+			(xy 179.07 33.02) (xy 179.07 35.56)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9daca05e-0881-4750-891f-54dffbbb24a2")
+	)
+	(wire
+		(pts
 			(xy 58.42 50.8) (xy 60.96 50.8)
 		)
 		(stroke
@@ -3092,6 +3507,16 @@
 			(type default)
 		)
 		(uuid "a643a3b3-a74a-404d-bd98-a5f4ebf2844c")
+	)
+	(wire
+		(pts
+			(xy 179.07 43.18) (xy 179.07 45.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a9441fc1-2394-4380-85c7-c5f3fc5315ad")
 	)
 	(wire
 		(pts
@@ -3192,6 +3617,16 @@
 			(type default)
 		)
 		(uuid "b0fd8d4a-7805-4445-96f8-662ac5899539")
+	)
+	(wire
+		(pts
+			(xy 195.58 58.42) (xy 195.58 55.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b263ebe6-5160-4d0c-b624-8f257f33576d")
 	)
 	(wire
 		(pts
@@ -3305,6 +3740,46 @@
 	)
 	(wire
 		(pts
+			(xy 224.79 55.88) (xy 224.79 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cddcca3e-b558-4389-bc92-1f9ed004e2e2")
+	)
+	(wire
+		(pts
+			(xy 241.3 48.26) (xy 241.3 45.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cfef84b6-8002-4228-a2af-f56b9c0c6ad0")
+	)
+	(wire
+		(pts
+			(xy 224.79 45.72) (xy 224.79 48.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cff37380-516c-4562-b3ee-53a3e578404e")
+	)
+	(wire
+		(pts
+			(xy 241.3 45.72) (xy 245.11 45.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d3ee4d31-efb9-4b5d-81d8-efcabf64e641")
+	)
+	(wire
+		(pts
 			(xy 161.29 129.54) (xy 173.99 129.54)
 		)
 		(stroke
@@ -3372,6 +3847,16 @@
 			(type default)
 		)
 		(uuid "e6abdef7-499f-40b5-b67a-4ee364b129c3")
+	)
+	(wire
+		(pts
+			(xy 179.07 55.88) (xy 179.07 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e7848a67-3a42-47ad-89b1-5eb78162b1f8")
 	)
 	(wire
 		(pts
@@ -3512,6 +3997,50 @@
 			(type default)
 		)
 		(uuid "fe6ee4b1-81c6-4b12-a241-1d0edec01be9")
+	)
+	(global_label "POS_5V_REF"
+		(shape output)
+		(at 199.39 45.72 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "225f9bab-ad61-4cf7-a735-610f5caa3de5")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 213.2719 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "NEG_5V_REF"
+		(shape output)
+		(at 245.11 45.72 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "4c132b4d-cb88-420f-88f9-12510974d58e")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 258.9314 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
 	)
 	(symbol
 		(lib_id "Rumblesan_Standard_Parts:C")
@@ -3816,6 +4345,103 @@
 			(project "hierophone"
 				(path "/5b0acaca-dc50-4fa5-b146-164c1b9ad031/708daaf5-eb2e-421e-aa9f-d34b1cff001f"
 					(reference "#PWR067")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Rumblesan_Standard_Parts:C_Polarized")
+		(at 195.58 52.07 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "0f3f3be7-9f58-4593-bc2c-69ca9d37fbae")
+		(property "Reference" "C42"
+			(at 199.39 49.9109 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "10uF"
+			(at 199.39 52.4509 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Rumblesan_Standard_Parts:CP_Radial_D5.0mm_P2.00mm"
+			(at 201.93 52.07 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 204.47 52.07 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Polarized capacitor"
+			(at 195.58 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Spec" "electrolytic"
+			(at 199.39 55.88 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Tolerance" "20%"
+			(at 199.39 44.45 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage" "50v"
+			(at 199.39 48.26 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "eb5a09f3-5d80-4ac7-8bae-d780d985b901")
+		)
+		(pin "2"
+			(uuid "daad0c05-8c4b-4181-8bbb-e8613e9afd73")
+		)
+		(instances
+			(project "hierophone"
+				(path "/5b0acaca-dc50-4fa5-b146-164c1b9ad031/708daaf5-eb2e-421e-aa9f-d34b1cff001f"
+					(reference "C42")
 					(unit 1)
 				)
 			)
@@ -4318,6 +4944,72 @@
 		)
 	)
 	(symbol
+		(lib_id "power:VEE")
+		(at 224.79 33.02 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "2f65c07d-30d4-4fda-b8bd-b538fa88b318")
+		(property "Reference" "#PWR030"
+			(at 224.79 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "VEE"
+			(at 224.79 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 224.79 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 224.79 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"VEE\""
+			(at 224.79 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "593e1549-7be9-4f45-b381-1522f2038c93")
+		)
+		(instances
+			(project "hierophone"
+				(path "/5b0acaca-dc50-4fa5-b146-164c1b9ad031/708daaf5-eb2e-421e-aa9f-d34b1cff001f"
+					(reference "#PWR030")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 134.62 80.01 0)
 		(unit 1)
@@ -4378,6 +5070,73 @@
 			(project "hierophone"
 				(path "/5b0acaca-dc50-4fa5-b146-164c1b9ad031/708daaf5-eb2e-421e-aa9f-d34b1cff001f"
 					(reference "#PWR086")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 241.3 58.42 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "3381c1b3-ee74-417f-85c7-a00718eab5e9")
+		(property "Reference" "#PWR089"
+			(at 241.3 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 241.3 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 241.3 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 241.3 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 241.3 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "18a12069-b8a4-45ab-839a-a03d6cb2267d")
+		)
+		(instances
+			(project "hierophone"
+				(path "/5b0acaca-dc50-4fa5-b146-164c1b9ad031/708daaf5-eb2e-421e-aa9f-d34b1cff001f"
+					(reference "#PWR089")
 					(unit 1)
 				)
 			)
@@ -5682,6 +6441,73 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 195.58 58.42 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "71684918-c0e8-4b26-8d87-f7641ab6d47d")
+		(property "Reference" "#PWR023"
+			(at 195.58 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 195.58 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 195.58 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 195.58 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 195.58 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "f0b8fb2c-f34c-45e1-b57f-299b5d10bae9")
+		)
+		(instances
+			(project "hierophone"
+				(path "/5b0acaca-dc50-4fa5-b146-164c1b9ad031/708daaf5-eb2e-421e-aa9f-d34b1cff001f"
+					(reference "#PWR023")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GNDD")
 		(at 146.05 33.02 0)
 		(unit 1)
@@ -6144,6 +6970,76 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:D_Zener")
+		(at 179.07 52.07 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "844c4caa-a8e1-4dcb-84e6-dfc1da2d7bc6")
+		(property "Reference" "D6"
+			(at 181.61 50.7999 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "5v1"
+			(at 181.61 53.3399 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal"
+			(at 179.07 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 179.07 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Zener diode"
+			(at 179.07 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "8a665d74-af29-4b9d-9879-a5144086bac6")
+		)
+		(pin "1"
+			(uuid "2d4d030d-3ae5-40f8-a8be-fb4b3833c56e")
+		)
+		(instances
+			(project "hierophone"
+				(path "/5b0acaca-dc50-4fa5-b146-164c1b9ad031/708daaf5-eb2e-421e-aa9f-d34b1cff001f"
+					(reference "D6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Connector_Generic:Conn_01x02")
 		(at 53.34 48.26 0)
 		(mirror y)
@@ -6361,6 +7257,140 @@
 			(project "hierophone"
 				(path "/5b0acaca-dc50-4fa5-b146-164c1b9ad031/708daaf5-eb2e-421e-aa9f-d34b1cff001f"
 					(reference "#PWR060")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 224.79 58.42 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "90e5a0fd-949e-474b-b5c5-f37d547cd4a3")
+		(property "Reference" "#PWR035"
+			(at 224.79 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 224.79 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 224.79 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 224.79 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 224.79 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "206e8800-5908-45f8-aab3-772ce32e320f")
+		)
+		(instances
+			(project "hierophone"
+				(path "/5b0acaca-dc50-4fa5-b146-164c1b9ad031/708daaf5-eb2e-421e-aa9f-d34b1cff001f"
+					(reference "#PWR035")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:VCC")
+		(at 179.07 33.02 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "9469f7bf-fb53-459c-850c-c5cec25d2039")
+		(property "Reference" "#PWR021"
+			(at 179.07 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "VCC"
+			(at 179.07 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 179.07 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 179.07 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"VCC\""
+			(at 179.07 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "d3c8dc9e-91c7-4254-86c6-233e42b33a1b")
+		)
+		(instances
+			(project "hierophone"
+				(path "/5b0acaca-dc50-4fa5-b146-164c1b9ad031/708daaf5-eb2e-421e-aa9f-d34b1cff001f"
+					(reference "#PWR021")
 					(unit 1)
 				)
 			)
@@ -6700,6 +7730,200 @@
 			(project "hierophone"
 				(path "/5b0acaca-dc50-4fa5-b146-164c1b9ad031/708daaf5-eb2e-421e-aa9f-d34b1cff001f"
 					(reference "#FLG01")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Rumblesan_Standard_Parts:R")
+		(at 224.79 39.37 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "a2cf0549-5b48-4aeb-9c7f-3758cd38e45b")
+		(property "Reference" "R27"
+			(at 227.33 38.0999 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "1k"
+			(at 227.33 40.6399 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Rumblesan_Standard_Parts:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
+			(at 227.33 41.91 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 231.14 39.37 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 224.79 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Tolerance" "1%"
+			(at 229.87 45.72 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Power" "0.5W"
+			(at 229.87 31.75 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Spec" "metal film"
+			(at 229.87 39.37 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "6187406a-b7d5-457c-92f3-ace002e5a0e9")
+		)
+		(pin "2"
+			(uuid "da166ba3-6856-412a-979b-6e9a9e3acd6b")
+		)
+		(instances
+			(project "hierophone"
+				(path "/5b0acaca-dc50-4fa5-b146-164c1b9ad031/708daaf5-eb2e-421e-aa9f-d34b1cff001f"
+					(reference "R27")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Rumblesan_Standard_Parts:R")
+		(at 179.07 39.37 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "a3e01b6d-686b-4e60-9236-ab13519f2e62")
+		(property "Reference" "R26"
+			(at 181.61 38.0999 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "1k"
+			(at 181.61 40.6399 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Rumblesan_Standard_Parts:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
+			(at 181.61 41.91 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 185.42 39.37 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 179.07 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Tolerance" "1%"
+			(at 184.15 45.72 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Power" "0.5W"
+			(at 184.15 31.75 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Spec" "metal film"
+			(at 184.15 39.37 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "6200543b-6468-436f-8a17-88e8ec542a79")
+		)
+		(pin "2"
+			(uuid "a848bb86-6d8f-41b1-82b0-4cea6812257c")
+		)
+		(instances
+			(project "hierophone"
+				(path "/5b0acaca-dc50-4fa5-b146-164c1b9ad031/708daaf5-eb2e-421e-aa9f-d34b1cff001f"
+					(reference "R26")
 					(unit 1)
 				)
 			)
@@ -7063,6 +8287,73 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 179.07 58.42 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "d20d2a8b-ed20-4ca5-9e39-c0762c1f80db")
+		(property "Reference" "#PWR022"
+			(at 179.07 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 179.07 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 179.07 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 179.07 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 179.07 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "149265f4-99c7-4fbc-9387-d35030d00d66")
+		)
+		(instances
+			(project "hierophone"
+				(path "/5b0acaca-dc50-4fa5-b146-164c1b9ad031/708daaf5-eb2e-421e-aa9f-d34b1cff001f"
+					(reference "#PWR022")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:VCC")
 		(at 49.53 80.01 0)
 		(unit 1)
@@ -7220,6 +8511,103 @@
 			(project "hierophone"
 				(path "/5b0acaca-dc50-4fa5-b146-164c1b9ad031/708daaf5-eb2e-421e-aa9f-d34b1cff001f"
 					(reference "C28")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Rumblesan_Standard_Parts:C_Polarized")
+		(at 241.3 52.07 0)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "d553e889-c36d-44df-a72e-dc079b96ae0d")
+		(property "Reference" "C43"
+			(at 245.11 54.2291 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "10uF"
+			(at 245.11 51.6891 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Rumblesan_Standard_Parts:CP_Radial_D5.0mm_P2.00mm"
+			(at 247.65 52.07 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 250.19 52.07 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Polarized capacitor"
+			(at 241.3 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Spec" "electrolytic"
+			(at 245.11 48.26 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Tolerance" "20%"
+			(at 245.11 59.69 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage" "50v"
+			(at 245.11 55.88 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "3cf05417-b2bc-4613-81a3-2f28f93c2e85")
+		)
+		(pin "2"
+			(uuid "cf8caf21-8b92-42f9-9ae1-3139b62aa8c6")
+		)
+		(instances
+			(project "hierophone"
+				(path "/5b0acaca-dc50-4fa5-b146-164c1b9ad031/708daaf5-eb2e-421e-aa9f-d34b1cff001f"
+					(reference "C43")
 					(unit 1)
 				)
 			)
@@ -7947,6 +9335,76 @@
 			(project "hierophone"
 				(path "/5b0acaca-dc50-4fa5-b146-164c1b9ad031/708daaf5-eb2e-421e-aa9f-d34b1cff001f"
 					(reference "#PWR066")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:D_Zener")
+		(at 224.79 52.07 270)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "ff7f097e-3761-4be1-a140-b304d5040dca")
+		(property "Reference" "D7"
+			(at 227.33 53.3401 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "5v1"
+			(at 227.33 50.8001 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal"
+			(at 224.79 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 224.79 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Zener diode"
+			(at 224.79 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "7c7a92d3-af33-4709-b753-4184a19a7e1e")
+		)
+		(pin "1"
+			(uuid "87003872-d4ee-4595-b331-4f2558e1fb29")
+		)
+		(instances
+			(project "hierophone"
+				(path "/5b0acaca-dc50-4fa5-b146-164c1b9ad031/708daaf5-eb2e-421e-aa9f-d34b1cff001f"
+					(reference "D7")
 					(unit 1)
 				)
 			)
