@@ -1,18 +1,9 @@
 # Hierophone
 
-An instrument that uses a surface transducer and a piezo microphone to create audio feedback through a steel sheet.
+The Hierophone is an instrument designed around resonating a sheet of metal by placing it in an audio feedback loop. By changing the filtering of the audio, the phase and level of feedback, and manipulating the sheet directly, different overtones and sounds can be generated.
 
-
-## Description
-
-Needs a better name...
-
+The name derives from ancient Greek, being the combination of ἱερά (hiera, 'holy') and φωνή (phōnē, 'voice'), together meaning "Holy Voice".
 
 ## Contact
 
 Drop me an email at guy@rumblesan.com
-
-
-## License
-
-BSD License.
