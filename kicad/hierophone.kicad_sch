@@ -14120,6 +14120,15 @@
 				(hide yes)
 			)
 		)
+		(property "Name" "Low Cut"
+			(at 113.03 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "1bf91223-7b48-4176-b0f9-85a953620dba")
 		)
@@ -16464,6 +16473,15 @@
 				(hide yes)
 			)
 		)
+		(property "Name" "PowerAmp Out"
+			(at 494.03 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "77557cab-e80a-4201-8917-5130a71d32c3")
 		)
@@ -17629,6 +17647,15 @@
 			)
 		)
 		(property "Description" "Potentiometer"
+			(at 63.5 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Name" "Input 2 Volume"
 			(at 63.5 128.27 0)
 			(effects
 				(font
@@ -20276,6 +20303,15 @@
 				(hide yes)
 			)
 		)
+		(property "Name" "Power Indicator"
+			(at 181.61 269.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f6c35e78-d0b3-4f5c-bcbd-dbf1b39d7ff7")
 		)
@@ -21102,6 +21138,15 @@
 			)
 		)
 		(property "Description" "Potentiometer"
+			(at 63.5 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Name" "Input 1 Volume"
 			(at 63.5 91.44 0)
 			(effects
 				(font
@@ -26854,6 +26899,15 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 193.04 193.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Name" "Pickup In"
 			(at 193.04 193.04 0)
 			(effects
 				(font

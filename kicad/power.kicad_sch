@@ -5766,6 +5766,15 @@
 				(hide yes)
 			)
 		)
+		(property "Name" "+V"
+			(at 88.9 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "5aba1f44-e4cd-4295-8f0c-4c6652c1fd52")
 		)
@@ -5825,6 +5834,15 @@
 			)
 		)
 		(property "Description" "test point"
+			(at 130.81 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Name" "0V"
 			(at 130.81 78.74 0)
 			(effects
 				(font
@@ -7085,6 +7103,15 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 53.34 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Name" "Power Input"
 			(at 53.34 48.26 0)
 			(effects
 				(font
@@ -8946,6 +8973,15 @@
 			)
 		)
 		(property "Description" "test point"
+			(at 102.87 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Name" "-V"
 			(at 102.87 78.74 0)
 			(effects
 				(font
