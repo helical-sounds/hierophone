@@ -5109,6 +5109,12 @@
 		(uuid "b0155762-fa1f-4b26-b7d5-ec3f192bc102")
 	)
 	(junction
+		(at 81.28 218.44)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b2985baa-fefe-431b-9f79-1b96b0ca6794")
+	)
+	(junction
 		(at 312.42 189.23)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -5251,6 +5257,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "e9ec09c6-2323-4a04-bcb5-8fa22f12e2db")
+	)
+	(junction
+		(at 63.5 234.95)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "edb702f2-c9f5-42ff-9a1f-aab3d86b6d72")
 	)
 	(junction
 		(at 81.28 119.38)
@@ -5407,6 +5419,16 @@
 			(type default)
 		)
 		(uuid "042ff282-f7f4-476e-a3d4-68c73ab0664e")
+	)
+	(wire
+		(pts
+			(xy 63.5 229.87) (xy 63.5 234.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "05fc6291-4004-4e3f-96b3-b32987c50b71")
 	)
 	(wire
 		(pts
@@ -5957,6 +5979,16 @@
 			(type default)
 		)
 		(uuid "1e450ddc-b032-4735-8bf6-b6ce20fe0157")
+	)
+	(wire
+		(pts
+			(xy 76.2 232.41) (xy 81.28 232.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1e8fa6a4-dcba-4ccf-8b45-c3f7da991c93")
 	)
 	(polyline
 		(pts
@@ -6510,6 +6542,16 @@
 	)
 	(wire
 		(pts
+			(xy 81.28 218.44) (xy 86.36 218.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3da74b44-5500-4d12-bd53-edfd6358ceff")
+	)
+	(wire
+		(pts
 			(xy 364.49 66.04) (xy 353.06 66.04)
 		)
 		(stroke
@@ -6717,6 +6759,16 @@
 			(type default)
 		)
 		(uuid "4529ff37-9647-4c09-bb34-460d93273f30")
+	)
+	(wire
+		(pts
+			(xy 81.28 232.41) (xy 81.28 218.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "45308b42-6872-4cc4-b007-288812c21969")
 	)
 	(wire
 		(pts
@@ -7520,6 +7572,16 @@
 	)
 	(wire
 		(pts
+			(xy 63.5 234.95) (xy 63.5 236.22)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7448c2b4-429a-4514-9ebb-e0579ece3075")
+	)
+	(wire
+		(pts
 			(xy 303.53 46.99) (xy 303.53 59.69)
 		)
 		(stroke
@@ -8250,6 +8312,16 @@
 	)
 	(wire
 		(pts
+			(xy 62.23 234.95) (xy 63.5 234.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "98a5a03e-626b-4d66-8572-eba018cc9b86")
+	)
+	(wire
+		(pts
 			(xy 461.01 148.59) (xy 474.98 148.59)
 		)
 		(stroke
@@ -8367,6 +8439,16 @@
 			(type default)
 		)
 		(uuid "9e6d8982-731e-4eb1-935e-03ca59784a24")
+	)
+	(wire
+		(pts
+			(xy 62.23 229.87) (xy 63.5 229.87)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9f12ce5e-5e2f-4727-b86b-1fdabdb817b7")
 	)
 	(wire
 		(pts
@@ -9320,7 +9402,7 @@
 	)
 	(wire
 		(pts
-			(xy 73.66 218.44) (xy 86.36 218.44)
+			(xy 73.66 218.44) (xy 81.28 218.44)
 		)
 		(stroke
 			(width 0)
@@ -10007,6 +10089,16 @@
 			(type default)
 		)
 		(uuid "f7b73447-9602-46f3-a803-e6494abeed2e")
+	)
+	(wire
+		(pts
+			(xy 62.23 232.41) (xy 68.58 232.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f82ae974-b62f-4667-9d35-c8dfcb706ed9")
 	)
 	(wire
 		(pts
@@ -17116,6 +17208,72 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 63.5 236.22 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "59f79336-3ee7-485c-b167-b51060b9856b")
+		(property "Reference" "#PWR0104"
+			(at 63.5 242.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 63.5 241.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 63.5 236.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 63.5 236.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 63.5 236.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "b9cfa720-7e60-479a-989b-db6f76fbf6e2")
+		)
+		(instances
+			(project "hierophone"
+				(path "/5b0acaca-dc50-4fa5-b146-164c1b9ad031"
+					(reference "#PWR0104")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Rumblesan_Standard_Parts:R")
 		(at 326.39 115.57 180)
 		(unit 1)
@@ -17273,6 +17431,86 @@
 			(project "hierophone"
 				(path "/5b0acaca-dc50-4fa5-b146-164c1b9ad031"
 					(reference "#PWR099")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector_Audio:AudioJack2_SwitchT")
+		(at 57.15 232.41 0)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "5ba47ae7-ea3a-44f5-9846-1ba7cc1f0783")
+		(property "Reference" "J13"
+			(at 57.15 239.776 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "AudioJack2_SwitchT"
+			(at 56.515 238.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Rumblesan_Audio_Connectors:Jack_3.5mm_QingPu_WQP-PJ398SM_Vertical"
+			(at 57.15 232.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 57.15 232.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Audio Jack, 2 Poles (Mono / TS), Switched T Pole (Normalling)"
+			(at 57.15 232.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Name" "Cutoff CV"
+			(at 57.15 237.744 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "S"
+			(uuid "b0569d3e-46e5-4bb6-8f92-25bb80286e92")
+		)
+		(pin "T"
+			(uuid "a892ca33-a044-4834-9257-458205a4242d")
+		)
+		(pin "TN"
+			(uuid "90c10ea9-8bc0-405b-8978-f20d76f5e921")
+		)
+		(instances
+			(project "hierophone"
+				(path "/5b0acaca-dc50-4fa5-b146-164c1b9ad031"
+					(reference "J13")
 					(unit 1)
 				)
 			)
@@ -23154,6 +23392,101 @@
 			(project "hierophone"
 				(path "/5b0acaca-dc50-4fa5-b146-164c1b9ad031"
 					(reference "RV4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Rumblesan_Standard_Parts:R")
+		(at 72.39 232.41 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "a8719fda-a743-4197-8fe7-b2f71b5f6433")
+		(property "Reference" "R18"
+			(at 72.39 226.06 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "100k"
+			(at 72.39 228.6 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Rumblesan_Standard_Parts:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
+			(at 74.93 229.87 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 72.39 226.06 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 72.39 232.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Tolerance" "1%"
+			(at 78.74 227.33 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Power" "0.5W"
+			(at 64.77 227.33 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Spec" "metal film"
+			(at 72.39 227.33 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "825a7d4b-288b-4e52-bcf5-3612db41fc94")
+		)
+		(pin "2"
+			(uuid "be582b37-ac42-4f14-9edb-a4dc44c0c622")
+		)
+		(instances
+			(project "hierophone"
+				(path "/5b0acaca-dc50-4fa5-b146-164c1b9ad031"
+					(reference "R18")
 					(unit 1)
 				)
 			)
