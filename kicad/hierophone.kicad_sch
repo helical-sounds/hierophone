@@ -11244,7 +11244,7 @@
 				)
 			)
 		)
-		(property "Value" "LM386"
+		(property "Value" "LM386N-4"
 			(at 451.612 159.004 0)
 			(effects
 				(font
